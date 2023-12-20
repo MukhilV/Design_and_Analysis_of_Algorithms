@@ -1,0 +1,7 @@
+5 13
+item1 20 2
+item2 30 5
+item3 35 7
+item4 12 3
+item5 3 1
+

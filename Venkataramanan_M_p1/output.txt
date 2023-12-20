@@ -1,0 +1,7 @@
+5	483	4	5.7e-05
+testPlayerName0 
+testPlayerName1 
+testPlayerName2 
+testPlayerName3 
+
+Invalid Input: The given cardname in price-list file is not found in market-price file

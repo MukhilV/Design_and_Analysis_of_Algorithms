@@ -1,0 +1,7 @@
+6 145 62
+item8 23 6
+item6 29 10
+item4 29 13
+item3 23 5
+item2 29 9
+item1 12 19
